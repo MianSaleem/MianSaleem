@@ -25,3 +25,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 If you are interested, please contac me.
 -->
+
+<!-- <p>
+  <a href="https://twitter.com/tecdiary">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tecdiary?style=for-the-badge">
+  </a>
+   <a href="https://github.com/sponsors/MianSaleem">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&style=for-the-badge">
+  </a>
+</p> -->
+
+<!-- <a href="https://github.com/nunomaduro"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=MianSaleem&show_icons=true" align="right" height="150" /></a> -->
